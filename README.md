@@ -14,3 +14,6 @@
 登录看的以下项目：
 > [Cloud189](https://github.com/Dawnnnnnn/Cloud189)
 > [cloud189](https://github.com/Aruelius/cloud189)
+
+
+每天10:00和22:00各签到一次
